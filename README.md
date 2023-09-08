@@ -1,42 +1,31 @@
-# Sound Healing: How Music Genres Correlate with Mental Health
+# Sound Healing: How Music Genres Affect Various Mental Health Conditions
 
-## Project Description
+## Objective
 
-In this data science project, we delve deep into the MxMH dataset to explore the relationship between musical preferences and mental health conditions. Utilizing statistical analysis, machine learning techniques, and compelling visualizations, we aim to shed light on how different genres of music may serve as therapeutic catalysts for mental well-being. The insights generated from this project could serve as valuable contributions to the evolving field of Music Therapy.
+The primary objective of this project is to understand the effectiveness of different music genres on various self-reported mental health conditions. The goal is to identify whether specific genres have a statistically significant impact on levels of stress, anxiety, depression, or other mental health states.
 
-## Table of Contents
+## Research Questions
 
-1. [Usage](#usage)
-2. [Data Source](#data-source)
-3. [Technologies Used](#technologies-used)
-
-
-
-## Usage
-
-To get started with the project:
-
-1. **Data Cleaning**: Navigate to the `notebooks/` directory and run the `data_cleaning.ipynb` notebook to prepare the dataset.
-  
-2. **Exploratory Data Analysis**: Open and execute the `exploratory_data_analysis.ipynb` notebook for initial data inspection.
-
-3. **Data Modeling**: The `data_modeling.ipynb` notebook contains machine learning models that provide insights into the data.
-
-To execute a Python script, run:
-
-```bash
-python src/script_name.py
-```
+1. Do certain music genres have a statistically significant positive or negative effect on self-reported stress, anxiety, or depression levels?
+2. Is there a genre-specific pattern in music listening among people who report particular mental health conditions?
+3. Do certain music genres lead to longer periods of positive mental health effects?
+4. Are there demographic factors that influence the effectiveness of certain genres on mental health?
 
 ## Data Source
 
-The MxMH dataset used in this project is sourced from Kaggle. You can find it [here](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
+The data for this project comes from the MxMH dataset, which aims to identify correlations between an individual's music taste and their self-reported mental health. 
 
-Please ensure to comply with Kaggle's terms of service and give appropriate attribution.
+## Methodology
 
-## Technologies Used
+- Descriptive Statistics
+- Correlation and Causation Analysis
+- Multivariate Analysis
+- Machine Learning Models (Optional)
+- Data Visualization
+
+## Tools Used
 
 - Python
 - Pandas
-- Matplotlib
-- Scikit-Learn
+- Seaborn/Matplotlib
+- scikit-learn (Optional)
