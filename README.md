@@ -30,7 +30,7 @@ python src/script_name.py
 
 ## Data Source
 
-The MxMH dataset used in this project is sourced from Kaggle. You can find it [here](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results).
+The MxMH dataset used in this project is sourced from Kaggle. You can find it [here] (https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results).
 
 Please ensure to comply with Kaggle's terms of service and give appropriate attribution.
 
